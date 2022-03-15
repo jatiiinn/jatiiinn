@@ -16,7 +16,7 @@ Hi, I'm Jatin Jakhar, a passionate self-taught UI/UX Designer from India, my pas
 - 📫 Reach me at [email](mailto:jatinjakhar61@gmail.com) :)
 - 💬 I'm interested in **User Interface**, **User Experience**, **Design**, and exploring different domains.
 - 😄 Pronouns: He/Him
-- 🧠 Currently a Freshman at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems
+- 🧠 Currently a Freshman at Vellore Institute of Technology, Vellore, pursuing Computer Science Core
 
 **Technologies:**
 
